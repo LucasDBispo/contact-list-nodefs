@@ -1,3 +1,5 @@
+contact-list-nodefs v.1.0.0
+
 PT-BR:
 
 Essa aplicação consiste em uma implementação back-end simples de uma lista de contatos, utilizando Typescript e explorando o módulo File System do Node.js. Este projeto apresenta uma API com algumas funções CRUD, porém, não foi desenvolvida para efetuar comunicação com um servidor externo. Toda manipulação de dados é feita pelo File System na própria máquina local, utilizando um arquivo de texto presente na pasta 'data'. As rotas estão na pasta 'routes' e todas as funções necessárias para a execução do programa está na pasta 'services'. Em caso de quaisquer dúvidas sinta-se a vontade para me mandar mensagem ou um e-mail no endereço lucasdavid.bispo@gmail.com
